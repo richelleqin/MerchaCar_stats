@@ -52,5 +52,18 @@ Looking into the overall variance, it is 62.3 which is less than 100, fitting th
 - Lot2: Lot 2: p-value = .6072, alpha = .05, .60 > .05, which means Lot 2 is not statistically significant from the normal distribution and normality can be assumed. The mean falls within the 95% confidence interval.
 - Lot3: p-value = .04168, alpha = .05, .04 < .05, which means it is statistically significant from the normal distribution and normality cannot be assumed. However, the mean falls within the 95% confidence interval.
 
+## Study Design: MechaCar vs Competition
 
+To compare MechaCar to its competitors, serveral factors could be considered.
 
+- What metric or metrics are you going to test?
+    - The next metrics to test should be the cost, horsepower, and highway fuel efficiency, which addresses consumer’s recent need to be cost effective in the inflating economy.
+
+- What is the null hypothesis or alternative hypothesis?
+    - The null hypothesis is that the mean of the cost to fuel rating is zero. The alternative hypothesis is that the mean of the cost to fuel rating is not zero.
+
+- What statistical test would you use to test the hypothesis? And why?
+    - Using a multiple linear regression statistical summary would show how the variables impact the cost to fuel rating for MechaCar and their competitors.
+    - 
+- What data is needed to run the statistical test?
+    - A random sample for MechaCar and their competitor, would need to be collected to include the distance travelled on a full tank, cost for a full tank, cost of vehicle, horsepower, fuel efficiency at 60km/hr, fuel efficiency at 100km/hr.
