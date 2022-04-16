@@ -64,6 +64,6 @@ To compare MechaCar to its competitors, serveral factors could be considered.
 
 - What statistical test would you use to test the hypothesis? And why?
     - Using a multiple linear regression statistical summary would show how the variables impact the cost to fuel rating for MechaCar and their competitors.
-    - 
+     
 - What data is needed to run the statistical test?
     - A random sample for MechaCar and their competitor, would need to be collected to include the distance travelled on a full tank, cost for a full tank, cost of vehicle, horsepower, fuel efficiency at 60km/hr, fuel efficiency at 100km/hr.
