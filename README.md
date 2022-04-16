@@ -19,9 +19,13 @@ The statistical summary of the linear regression is to determine the quality of 
     - spoiler_angle: p = 0.3069>0.05; not statistically significant; random amount of variance
     - ground_cliearance: p = 0 <0.05; statistically significant; non-random amount of variance
     - AWD: p = 0.1852>0.05; not statistically significant; random amount of variance
+
 2) Is the slope of the linear model considered to be zero? Why or why not?
    - Looking at the coefficients (“Estimate” on the table), the slope of all coefficients are not zero and would give the formula: 
 mpg = -.01 + 6.267(vehicle_length)+.001(vehicle_weight)+.069(spoiler_angle)+3.546(ground_clearance)-3.411(AWD). Further looking into the R^2 value (0.7149) indicates that it is not close to zero and thus the slope is not zero. 
+
+3) Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+    - R^2 is close to 1 but not close enough (0.7149) with a total p-value being statistically significant. This indicates that the model could be a good predictor for mpg, but there are still many variables at play that could affect its .
 
 
 
