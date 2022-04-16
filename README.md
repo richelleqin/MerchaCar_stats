@@ -13,6 +13,7 @@ The purpose of this project is to:
 The statistical summary of the linear regression is to determine the quality of the dataset. 
 
 1) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+    - mpg: p = 0 < 0.05; statistically significant; non-random amount of variance
 
 
 
