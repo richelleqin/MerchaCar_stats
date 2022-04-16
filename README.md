@@ -54,7 +54,7 @@ Looking into the overall variance, it is 62.3 which is less than 100, fitting th
 
 ## Study Design: MechaCar vs Competition
 
-To compare MechaCar to its competitors, serveral factors could be considered.
+To compare MechaCar to its competitors, several factors could be considered.
 
 - What metric or metrics are you going to test?
     - The next metrics to test should be the cost, horsepower, and highway fuel efficiency, which addresses consumer’s recent need to be cost effective in the inflating economy.
